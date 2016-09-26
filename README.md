@@ -17,9 +17,9 @@ This software is an utility for import json files into your database mongodb. It
 
 Under you can see description for each parameters:
 
-- <b>input_directory:</b> This is an loca path on your machine. Input directory path. Where your files json ara stored.
+- <b>input_directory:</b> This is an loca path on your machine. Input directory path. Where your files json are stored.
 
-- <b>input_directory:</b> This is an loca path on your machine. Input directory path. Where your files json ara stored.
+- <b>input_directory:</b> This is an loca path on your machine. Input directory path. Where your files json are stored.
 
 
 
