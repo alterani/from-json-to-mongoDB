@@ -1,3 +1,7 @@
 {
-	"input_directory": "/Users/enricoalterani/github/from-json-to-mongoDB/input_cartella"
+	"input_directory": "/Users/enricoalterani/github/from-json-to-mongoDB/input_cartella",
+	"dbhost": "localhost",
+	"dbport": "27017",
+	"dbname": "testenricodb",
+	"collectionname": "collenrico"
 }

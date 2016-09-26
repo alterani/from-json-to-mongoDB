@@ -1,0 +1,29 @@
+{
+  "name": "json-mongo",
+  "version": "1.0.0",
+  "description": "This software is an utility for import json files into your database mongodb",
+  "main": "json-to-mongo.js",
+  "scripts": {
+    "test": "node json-to-mongo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alterani/from-json-to-mongoDB.git"
+  },
+  "keywords": [
+    "mongodb",
+    "json",
+    "import"
+  ],
+  "author": "enrico alterani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alterani/from-json-to-mongoDB/issues"
+  },
+  "homepage": "https://github.com/alterani/from-json-to-mongoDB#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "fs": "0.0.1-security",
+    "mongodb": "^2.2.10"
+  }
+}
